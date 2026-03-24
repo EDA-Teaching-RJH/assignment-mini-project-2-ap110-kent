@@ -1,6 +1,5 @@
 """
 Custom Library - Grade Calculator Module
-WARNING: This version contains intentional bugs for learning purposes
 """
 
 class GradeCalculator:
