@@ -4,7 +4,7 @@ Test Module - Tests all functionality
 
 import unittest
 import os
-from student_tracker import Student, GradeTracker
+from mini_project_2 import Student, GradeTracker
 from custom_library import GradeCalculator
 
 
